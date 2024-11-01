@@ -13,6 +13,8 @@
     - **Condition** : Lorsque la scène commence (DepartScene). 🏁
     - **Action** : Changez l'animation de `Skeleton` pour **"Bone Pile Wakeup"** pour ajouter un peu de mystère et de fun ! 🦴✨
 
+![end](https://sebastien-devos.fr/img/codegaming/lost.png)
+
 - **Écran de Game Over** : 
   - Créez une scène qui s'affiche si le joueur perd. 😱
   - **Événements** :
