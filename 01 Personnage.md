@@ -1,5 +1,7 @@
 ## 1. Configuration du personnage principal et des contrôles 🎮
 
+![Devo](https://sebastien-devos.fr/img/codegaming/devo-devil.png)
+
 ### 1.1 Comportement de plateforme pour le personnage `DevoTheDevil` 
 - Sélectionnez `DevoTheDevil` dans la scène. ✨
 - Ajoutez le comportement : Dans les propriétés de l’objet, allez dans **Comportements** > **Ajouter un comportement** > **Objet de plateforme**. 🚀
