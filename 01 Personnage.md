@@ -25,3 +25,7 @@
 - **Sauter** :
   - **Condition** : Ajoutez un événement pour la **touche Espace**. 🆗
   - **Action** : Simulez une **touche de saut** pour permettre à `DevoTheDevil` de sauter. 🌠
+
+- **Retour à l'animation "Standing"** :
+  - **Condition** : Détectez **le relâchement de n'importe quelle touche**.
+  - **Action** : Changez l’animation de `DevoTheDevil` en **"Standing"** pour qu’il s’arrête lorsqu'aucune touche n'est appuyée. 🛑
