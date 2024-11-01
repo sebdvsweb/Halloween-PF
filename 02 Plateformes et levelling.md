@@ -1,8 +1,12 @@
 ## 2. Ajout de plateformes mobiles et fixes 🏞️
 
+![Plateformes](https://sebastien-devos.fr/img/codegaming/pixel-platformer.png)
+
 ### Plateformes fixes
-- Placer votre personnage sur une plateforme centrale au jeu. 🌄
+- Placez votre personnage sur une plateforme centrale au jeu. 🌄
 - Placez ensuite les plateformes statiques pour créer le parcours du personnage tout autour. 🌄
+- Utilisez de préférence 'Tile 8`, `Tile 9`, `Tile 11`, `Tile 17`.
+- N'hésitez pas ajoutz des élements de décors !
 
 ### Plateformes mobiles
 - Ajoutez une plateforme mobile (par exemple `Platform1`) et allez dans **Propriétés** > **Comportements**. 📏
