@@ -5,7 +5,7 @@
 ### Plateformes fixes
 - Placez votre personnage sur une plateforme centrale au jeu. 🌄
 - Placez ensuite les plateformes statiques pour créer le parcours du personnage tout autour. 🌄
-- Utilisez de préférence 'Tile 8`, `Tile 9`, `Tile 11`, `Tile 17`.
+- Utilisez de préférence `Tile 8`, `Tile 9`, `Tile 11`, `Tile 17`.
 - N'hésitez pas ajoutz des élements de décors !
 
 ### Plateformes mobiles
