@@ -1,5 +1,7 @@
 ## 4. Ajout et déplacement du squelette ennemi ☠️
 
+![Skeleton](https://sebastien-devos.fr/img/codegaming/skeleton.png)
+
 Le squelette se déplace de gauche à droite en changeant de direction au contact de flèches invisibles. 🔄
 
 ### 4.1 Mise en place des points de changement de direction 🔄
