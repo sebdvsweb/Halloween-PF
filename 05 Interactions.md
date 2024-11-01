@@ -8,7 +8,10 @@
   - **Condition** : Collision entre le squelette et `DevoTheDevil` par le côté. ❌
   - **Action** : Déclenchez une perte de vie ou affichez l’écran **"Game Over"**. 💔
 
-- **Création et interaction avec la zone de mort** ☠️
+- **Création et interaction avec la zone de mort** ☠
+
+![mort](https://sebastien-devos.fr/img/codegaming/mort.png)
+
   - **Ajout de la zone de mort** :
     - Créez un objet de zone de mort (par exemple nommé `mort`) qui servira de limite fatale pour le joueur, en bas de la scène ou dans des zones spécifiques.
   - **Détection de la collision avec la zone de mort** :
