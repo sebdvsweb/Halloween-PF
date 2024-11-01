@@ -1,5 +1,7 @@
 ## 8. Test final et ajustements ⚙️🧪
 
+![start](https://sebastien-devos.fr/img/codegaming/start.png)
+
 ### Écran de démarrage et de fin 🎬
 - **Écran de démarrage** : 
   - Créez une scène d’accueil avec un bouton **"Démarrer"** pour lancer le jeu. 🎮 
