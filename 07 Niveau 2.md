@@ -7,6 +7,7 @@
 - **Ajout du trampoline** :
   - Dans le niveau 2, ajoutez un objet trampoline à l’endroit souhaité. 🎢
   - **Condition** : Détection d'une collision entre `DevoTheDevil` et le trampoline. 🤸
+  - Pour que le rebond se fasse à chaque collision, il va falloir utiliser une **BOUCLE de répétition**. 
   - **Actions** :
     - Changez l’animation du trampoline pour **"Jump"** lors de la collision. 🎊
     - Permettez à `DevoTheDevil` de sauter en simulant une pression sur la touche de saut avec **SimulateJumpKey**. 🚀
