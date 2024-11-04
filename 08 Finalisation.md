@@ -25,6 +25,9 @@
     - **Condition** : Lorsque la scène commence (DepartScene). 🏁
     - **Action** : (Optionnel) Vous pouvez déclencher une animation spéciale pour un squelette ou un autre ennemi pour rendre l'écran de fin encore plus captivant ! 🎃💀
 
+### Bonus : Du son ! 
+- Ajouter des effets audio 🔈 à votre jeu pour le rendre plus fun !
+
 ### Testez tous les éléments :
 - Testez les mouvements, la collecte de clés, les interactions avec les ennemis, et les passages de niveau. 🕹️
 - Ajustez les paramètres pour un gameplay amusant et équilibré. ⚖️
