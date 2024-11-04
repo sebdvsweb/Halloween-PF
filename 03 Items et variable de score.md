@@ -7,6 +7,7 @@
    - Dans la section **Variables de scène**, créez une variable appelée **score** pour enregistrer le nombre de clés collectées par le joueur.
 2. **Affichage du score** :
    - Ajoutez un objet **Texte** sur la scène, nommé par exemple `ScoreDisplay`, pour afficher le score en haut de l’écran.
+   - Créez un nouveau calque `UI` et placez-y le score, sur la scène de base.
    - Dans les actions d’événement, utilisez cette commande pour mettre à jour le texte du score en fonction de la variable `score` :
 
      ```plaintext
